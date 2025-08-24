@@ -41,13 +41,13 @@
         "2025-08-26",
         "2025-08-28"
       ],
-      "tokens_total": 8,
-      "tokens_available": 3,
+      "tokens_total": 22,
       "tokens_used": {
         "2025-06-29": 2,
         "2025-07-03": 1,
         "2025-07-06": 2
       },
+"tokens_available": 17,
       "pause_requests": [],
       "reschedules": {}
     }
