@@ -1,1 +1,18 @@
+"subscription": {
+  "Id": 10100,
+  "start_date": "2025-08-01",
+  "end_date": "2025-08-31",
+  "planned_cleaners_per_day": 2,
+  "scheduled_days": 4,
+  "cleaning_days": ["2025-08-03", "2025-08-10", "2025-08-17", "2025-08-24"],
+  "tokens_total": 8,
+  "tokens_available": 3,
+  "tokens_used": {
+    "2025-08-03": 2,
+    "2025-08-10": 1,
+    "2025-08-17": 2
+  },
+  "pause_requests": [],
+  "reschedules": {}
+}
 
