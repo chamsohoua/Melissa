@@ -1,7 +1,8 @@
 {
-    "worker": [
-        {
-            "Cleaners_number": 12
-        }
-    ]
+  "workers": [
+    { "Cleaners_number": 1 },
+    { "Cleaners_number": 2 },
+    { "Cleaners_number": 3 },
+    { "Cleaners_number": 4 }
+  ]
 }
