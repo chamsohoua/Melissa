@@ -233,6 +233,27 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 999,
+      "name": "houa",
+      "start_date": "2025-08-02",
+      "end_date": "2025-08-26",
+      "planned_cleaners_per_day": 5,
+      "scheduled_days": 6,
+      "cleaning_days": [
+        "2025-08-02",
+        "2025-08-08",
+        "2025-08-13",
+        "2025-08-17",
+        "2025-08-29",
+        "2025-08-26"
+      ],
+      "tokens_total": 30,
+      "tokens_available": 30,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
