@@ -54,7 +54,7 @@
 {
       "id": 10100,
       "start_date": "2025-08-01",
-      "end_date": "2025-08-31",
+      "end_date": "2025-09-31",
       "planned_cleaners_per_day": 2,
       "scheduled_days": 11,
       "cleaning_days": [
