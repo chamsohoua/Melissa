@@ -119,6 +119,26 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 1212,
+      "name": "moh",
+      "start_date": "2025-08-01",
+      "end_date": "2025-08-29",
+      "planned_cleaners_per_day": 12,
+      "scheduled_days": 5,
+      "cleaning_days": [
+        "2025-08-01",
+        "2025-08-08",
+        "2025-08-15",
+        "2025-08-22",
+        "2025-08-29"
+      ],
+      "tokens_total": 60,
+      "tokens_available": 60,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
