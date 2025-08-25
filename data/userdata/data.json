@@ -99,6 +99,26 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 2005,
+      "name": "dohaa",
+      "start_date": "2025-09-06",
+      "end_date": "2025-09-30",
+      "planned_cleaners_per_day": 6,
+      "scheduled_days": 5,
+      "cleaning_days": [
+        "2025-09-06",
+        "2025-09-12",
+        "2025-09-18",
+        "2025-09-24",
+        "2025-09-30"
+      ],
+      "tokens_total": 30,
+      "tokens_available": 30,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
