@@ -295,6 +295,28 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 912,
+      "name": "xash",
+      "start_date": "2025-08-03",
+      "end_date": "2025-08-25",
+      "planned_cleaners_per_day": 3,
+      "scheduled_days": 7,
+      "cleaning_days": [
+        "2025-08-03",
+        "2025-08-08",
+        "2025-08-22",
+        "2025-08-12",
+        "2025-08-14",
+        "2025-08-19",
+        "2025-08-25"
+      ],
+      "tokens_total": 21,
+      "tokens_available": 21,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
