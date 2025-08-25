@@ -47,11 +47,11 @@
         "2025-07-03": 1,
         "2025-07-06": 2
       },
-"tokens_available": 17,
+      "tokens_available": 17,
       "pause_requests": [],
       "reschedules": {}
     },
-{
+    {
       "id": 10100,
       "start_date": "2025-08-01",
       "end_date": "2025-09-31",
@@ -76,7 +76,27 @@
         "2025-07-03": 1,
         "2025-07-06": 2
       },
-"tokens_available": 17,
+      "tokens_available": 17,
+      "pause_requests": [],
+      "reschedules": {}
+    },
+    {
+      "id": 256,
+      "name": "chamso",
+      "start_date": "2025-09-05",
+      "end_date": "2025-09-29",
+      "planned_cleaners_per_day": 2,
+      "scheduled_days": 5,
+      "cleaning_days": [
+        "2025-09-05",
+        "2025-09-11",
+        "2025-09-17",
+        "2025-09-23",
+        "2025-09-29"
+      ],
+      "tokens_total": 10,
+      "tokens_available": 10,
+      "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
     }
