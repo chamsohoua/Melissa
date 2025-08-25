@@ -139,6 +139,25 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 512,
+      "name": "cc",
+      "start_date": "2025-08-08",
+      "end_date": "2025-08-21",
+      "planned_cleaners_per_day": 6,
+      "scheduled_days": 4,
+      "cleaning_days": [
+        "2025-08-08",
+        "2025-08-25",
+        "2025-08-10",
+        "2025-08-21"
+      ],
+      "tokens_total": 26,
+      "tokens_available": 26,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
