@@ -275,6 +275,26 @@
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
+    },
+    {
+      "id": 512512,
+      "name": "fdfd",
+      "start_date": "2025-08-09",
+      "end_date": "2025-08-27",
+      "planned_cleaners_per_day": 2,
+      "scheduled_days": 5,
+      "cleaning_days": [
+        "2025-08-09",
+        "2025-08-12",
+        "2025-08-16",
+        "2025-08-07",
+        "2025-08-27"
+      ],
+      "tokens_total": 10,
+      "tokens_available": 10,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
     }
   ]
 }
