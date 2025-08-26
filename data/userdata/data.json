@@ -274,7 +274,10 @@
       "tokens_available": 54,
       "tokens_used": {},
       "pause_requests": [],
-      "reschedules": {}
+      "reschedules": {
+        "2025-08-28 to 2025-08-25": "Refused",
+        "Refused": "عدم وجود عمال"
+      }
     },
     {
       "id": 512512,
