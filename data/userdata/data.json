@@ -296,12 +296,17 @@
       "tokens_total": 10,
       "tokens_available": 10,
       "tokens_used": {},
-      "pause_requests": [
-        "2025-08-27"
-      ],
-      "reschedules": {
-        "2025-08-27 to 2025-08-29": "Accepted"
-      }
+      "pause_requests": [],
+      "reschedules": [
+        {
+          "request": "2025-08-27 to 2025-08-29",
+          "status": "Accepted"
+        },
+        {
+          "request": "07-08-2025 to 14-08-2025",
+          "status": "Accepted"
+        }
+      ]
     },
     {
       "id": 912,
