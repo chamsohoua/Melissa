@@ -293,7 +293,9 @@
       "tokens_total": 10,
       "tokens_available": 10,
       "tokens_used": {},
-      "pause_requests": [],
+      "pause_requests": [
+        "2025-08-27"
+      ],
       "reschedules": {}
     },
     {
