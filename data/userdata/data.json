@@ -296,7 +296,9 @@
       "pause_requests": [
         "2025-08-27"
       ],
-      "reschedules": {}
+      "reschedules": {
+        "2025-08-27 to 2025-08-29": "Accepted"
+      }
     },
     {
       "id": 912,
