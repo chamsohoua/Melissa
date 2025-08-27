@@ -276,7 +276,7 @@
       "pause_requests": [],
       "reschedules": {
         "2025-08-28 to 2025-08-25": "Refused",
-        "Refused": "عدم وجود عمال"
+        "Refused": "Ø¹Ø¯Ù ÙØ¬ÙØ¯ Ø¹ÙØ§Ù"
       }
     },
     {
@@ -336,6 +336,23 @@
       ],
       "tokens_total": 21,
       "tokens_available": 21,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
+    },
+    {
+      "id": 8000,
+      "name": "chamso",
+      "start_date": "2025-08-29",
+      "end_date": "2025-08-31",
+      "planned_cleaners_per_day": 2,
+      "scheduled_days": 2,
+      "cleaning_days": [
+        "2025-08-29",
+        "2025-08-31"
+      ],
+      "tokens_total": 4,
+      "tokens_available": 4,
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
