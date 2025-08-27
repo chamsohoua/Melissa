@@ -250,8 +250,10 @@
         "2025-08-26"
       ],
       "tokens_total": 30,
-      "tokens_available": 30,
-      "tokens_used": {},
+      "tokens_available": 25,
+      "tokens_used": {
+        "26-08-2025": "5"
+      },
       "pause_requests": [],
       "reschedules": {}
     },
