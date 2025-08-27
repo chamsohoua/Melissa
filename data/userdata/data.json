@@ -278,7 +278,7 @@
       "pause_requests": [],
       "reschedules": {
         "2025-08-28 to 2025-08-25": "Refused",
-        "Refused": "ÃÂ¹ÃÂ¯ÃÂ ÃÂÃÂ¬ÃÂÃÂ¯ ÃÂ¹ÃÂÃÂ§ÃÂ"
+        "Refused": "ÃÂÃÂ¹ÃÂÃÂ¯ÃÂÃÂ ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ§ÃÂÃÂ"
       }
     },
     {
@@ -355,6 +355,26 @@
       ],
       "tokens_total": 4,
       "tokens_available": 4,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {}
+    },
+    {
+      "id": 256,
+      "name": "chamso houa",
+      "start_date": "2025-10-04",
+      "end_date": "2025-10-28",
+      "planned_cleaners_per_day": 3,
+      "scheduled_days": 5,
+      "cleaning_days": [
+        "2025-10-04",
+        "2025-10-10",
+        "2025-10-16",
+        "2025-10-22",
+        "2025-10-28"
+      ],
+      "tokens_total": 15,
+      "tokens_available": 15,
       "tokens_used": {},
       "pause_requests": [],
       "reschedules": {}
