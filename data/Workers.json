@@ -1,8 +1,34 @@
 {
   "workers": [
-    { "Cleaners_number": 1 },
-    { "Cleaners_number": 2 },
-    { "Cleaners_number": 3 },
-    { "Cleaners_number": 4 }
+    {
+      "Cleaners_number": 1
+    },
+    {
+      "Cleaners_number": 2
+    },
+    {
+      "Cleaners_number": 3
+    },
+    {
+      "Cleaners_number": 4
+    },
+    {
+      "Cleaners_number": 5
+    },
+    {
+      "Cleaners_number": 6
+    },
+    {
+      "Cleaners_number": 7
+    },
+    {
+      "Cleaners_number": 8
+    },
+    {
+      "Cleaners_number": 9
+    },
+    {
+      "Cleaners_number": 10
+    }
   ]
 }
