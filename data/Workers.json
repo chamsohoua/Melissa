@@ -1,10 +1,16 @@
 {
   "workers": [
     {
-      "Cleaners_number": 1
+      "Cleaners_number": 1,
+      "gender": "ذكر"
     },
     {
-      "Cleaners_number": 2
+      "Cleaners_number": 2,
+      "gender": "أنثى"
+    },
+    {
+      "Cleaners_number": 3,
+      "gender": "ذكر"
     }
   ]
 }
