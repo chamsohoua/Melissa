@@ -1,3 +1,14 @@
 {
-  "workers": []
+  "workers": [
+    {
+      "Cleaners_number": 1,
+      "gender": "Homme",
+      "status": "Disponible"
+    },
+    {
+      "Cleaners_number": 2,
+      "gender": "Femme",
+      "status": "Disponible"
+    }
+  ]
 }
