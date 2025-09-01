@@ -1,16 +1,3 @@
 {
-  "workers": [
-    {
-      "Cleaners_number": 1,
-      "gender": "Ø°ÙØ±"
-    },
-    {
-      "Cleaners_number": 2,
-      "gender": "Ø£ÙØ«Ù"
-    },
-    {
-      "Cleaners_number": 3,
-      "gender": "Ø°ÙØ±"
-    }
-  ]
+  "workers": []
 }
