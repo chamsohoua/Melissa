@@ -9,6 +9,11 @@
       "Cleaners_number": 2,
       "gender": "Femme",
       "status": "En conge"
+    },
+    {
+      "Cleaners_number": 3,
+      "gender": "Homme",
+      "status": "Occupe"
     }
   ]
 }
