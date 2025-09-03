@@ -632,7 +632,28 @@
       "tokens_available": 8,
       "tokens_used": {},
       "pause_requests": [],
-      "reschedules": {}
+      "reschedules": [
+        {
+          "request": "09-09-2025 to 11-09-2025",
+          "status": "Refused",
+          "reason": "Jdhdhdh"
+        },
+        {
+          "request": "09-09-2025 to 15-09-2025",
+          "status": "Refused",
+          "reason": "Jdhdhdh"
+        },
+        {
+          "request": "16-09-2025 to 11-09-2025",
+          "status": "Refused",
+          "reason": "Jdhdhdh"
+        },
+        {
+          "request": "16-09-2025 to 15-09-2025",
+          "status": "Refused",
+          "reason": "Jdhdhdh"
+        }
+      ]
     }
   ],
   "service": []
