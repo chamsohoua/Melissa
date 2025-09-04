@@ -715,7 +715,7 @@
       "tokens_available": 12,
       "tokens_used": {},
       "pause_requests": [],
-      "reschedules": {}
+      "reschedules": []
     }
   ],
   "service": [
