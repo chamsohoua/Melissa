@@ -1,5 +1,14 @@
 {
   "workers": [
-    
+    {
+      "name": "mohamed",
+      "gender": "Homme",
+      "status": "Disponible"
+    },
+    {
+      "name": "fatiha",
+      "gender": "Femme",
+      "status": "Disponible"
+    }
   ]
 }
