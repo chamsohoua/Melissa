@@ -1,3 +1,19 @@
 {
-  "workers": []
+  "workers": [
+    {
+      "name": "fatiha",
+      "gender": "Femme",
+      "status": "Disponible"
+    },
+    {
+      "name": "Jfjdd",
+      "gender": "Homme",
+      "status": "Disponible"
+    },
+    {
+      "name": "Kfkfkf",
+      "gender": "Femme",
+      "status": "Disponible"
+    }
+  ]
 }
