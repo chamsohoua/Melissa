@@ -641,8 +641,8 @@
       "tokens_total": 1,
       "tokens_used": {},
       "total_price": 2500,
-      "payed": 1000,
-      "remaining": 1500
+      "payed": 2000,
+      "remaining": 500
     }
   ]
 }
