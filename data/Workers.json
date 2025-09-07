@@ -1,19 +1,9 @@
 {
   "workers": [
     {
-      "name": "fatiha",
+      "name": "Chahrazad",
       "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Jfjdd",
-      "gender": "Homme",
-      "status": "Occupe"
-    },
-    {
-      "name": "Kfkfkf",
-      "gender": "Femme",
-      "status": "Disponible"
+      "status": "En conge"
     },
     {
       "name": "Fatiha",
@@ -21,9 +11,19 @@
       "status": "Disponible"
     },
     {
-      "name": "charha",
+      "name": "Dahkala",
       "gender": "Femme",
-      "status": "En conge"
+      "status": "Disponible"
+    },
+    {
+      "name": "Fatoum",
+      "gender": "Femme",
+      "status": "Disponible"
+    },
+    {
+      "name": "Rachida",
+      "gender": "Femme",
+      "status": "Disponible"
     }
   ]
 }
