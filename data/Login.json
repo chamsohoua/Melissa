@@ -55,6 +55,13 @@
       "username": "Ha",
       "password": "098poi",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "3636",
+      "name": "بن عنتر عبد المالك",
+      "username": "malak",
+      "password": "123456",
+      "acceptedTerms": ""
     }
   ]
 }
