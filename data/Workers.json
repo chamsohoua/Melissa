@@ -24,6 +24,11 @@
       "name": "Rachida",
       "gender": "Femme",
       "status": "Disponible"
+    },
+    {
+      "name": "Monir",
+      "gender": "Homme",
+      "status": "Disponible"
     }
   ]
 }
