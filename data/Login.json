@@ -62,6 +62,13 @@
       "username": "malak",
       "password": "123456",
       "acceptedTerms": "true"
+    },
+{
+      "id": "666",
+      "name": "salim",
+      "username": "salim",
+      "password": "salim",
+      "acceptedTerms": ""
     }
   ]
 }
