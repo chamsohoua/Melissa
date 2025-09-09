@@ -116,6 +116,14 @@
       "username": "ali",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1",
+      "name": "Zineb roro",
+      "username": "zineb",
+      "password": "123",
+      "acceptedTerms": "",
+      "role": "worker"
     }
   ]
 }
