@@ -58,7 +58,7 @@
     },
     {
       "id": "3636",
-      "name": "ÃÂ¨ÃÂ ÃÂ¹ÃÂÃÂªÃÂ± ÃÂ¹ÃÂ¨ÃÂ¯ ÃÂ§ÃÂÃÂÃÂ§ÃÂÃÂ",
+      "name": "ÃÂÃÂ¨ÃÂÃÂ ÃÂÃÂ¹ÃÂÃÂÃÂÃÂªÃÂÃÂ± ÃÂÃÂ¹ÃÂÃÂ¨ÃÂÃÂ¯ ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ",
       "username": "malak",
       "password": "123456",
       "acceptedTerms": "true"
@@ -69,6 +69,13 @@
       "username": "salim",
       "password": "salim",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1111",
+      "name": "Faraj",
+      "username": "Boufaras",
+      "password": "fares",
+      "acceptedTerms": ""
     }
   ]
 }
