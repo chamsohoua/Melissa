@@ -232,28 +232,6 @@
       "total_price": 0,
       "payed": 0,
       "remaining": 0
-    },
-    {
-      "id": 808,
-      "name": "Ghggg",
-      "start_date": "2025-09-18",
-      "end_date": "2025-09-17",
-      "planned_cleaners_per_day": 1,
-      "scheduled_days": 4,
-      "cleaning_days": [
-        "2025-09-18",
-        "2025-09-25",
-        "2025-09-24",
-        "2025-09-17"
-      ],
-      "tokens_total": 4,
-      "tokens_available": 4,
-      "tokens_used": {},
-      "pause_requests": [],
-      "reschedules": {},
-      "total_price": 6,
-      "payed": 3,
-      "remaining": 3
     }
   ],
   "service": []
