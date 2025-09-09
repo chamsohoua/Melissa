@@ -190,6 +190,28 @@
       "total_price": 10000,
       "payed": 0,
       "remaining": 10000
+    },
+    {
+      "id": 1717,
+      "name": "bouamara khalil",
+      "start_date": "2025-09-24",
+      "end_date": "2025-09-27",
+      "planned_cleaners_per_day": 2,
+      "scheduled_days": 4,
+      "cleaning_days": [
+        "2025-09-24",
+        "2025-09-25",
+        "2025-09-26",
+        "2025-09-27"
+      ],
+      "tokens_total": 8,
+      "tokens_available": 8,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 0,
+      "payed": 0,
+      "remaining": 0
     }
   ],
   "service": []
