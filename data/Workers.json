@@ -1,34 +1,3 @@
 {
-  "workers": [
-    {
-      "name": "Chahrazad",
-      "gender": "Femme",
-      "status": "En conge"
-    },
-    {
-      "name": "Fatiha",
-      "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Dahkala",
-      "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Fatoum",
-      "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Rachida",
-      "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Monir",
-      "gender": "Homme",
-      "status": "Disponible"
-    }
-  ]
+  "workers": []
 }
