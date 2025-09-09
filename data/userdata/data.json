@@ -660,8 +660,8 @@
       "pause_requests": [],
       "reschedules": {},
       "total_price": 12000,
-      "payed": 12000,
-      "remaining": 0
+      "payed": 12001,
+      "remaining": -1
     }
   ],
   "service": [
