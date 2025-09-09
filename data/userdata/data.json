@@ -715,6 +715,18 @@
       "total_price": 42000,
       "payed": 42000,
       "remaining": 0
+    },
+    {
+      "id": 12,
+      "name": "Ghggggggg",
+      "date": "2025-09-10",
+      "day_name": "Mercredi",
+      "cleaners": 9,
+      "tokens_total": 9,
+      "tokens_used": {},
+      "total_price": 2400,
+      "payed": 2400,
+      "remaining": 0
     }
   ]
 }
