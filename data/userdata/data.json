@@ -257,5 +257,18 @@
       "remaining": 0
     }
   ],
-  "service": []
+  "service": [
+    {
+      "id": 1,
+      "name": "Garna assia",
+      "date": "2025-09-10",
+      "day_name": "Mercredi",
+      "cleaners": 2,
+      "tokens_total": 2,
+      "tokens_used": {},
+      "total_price": 6500,
+      "payed": 6500,
+      "remaining": 0
+    }
+  ]
 }
