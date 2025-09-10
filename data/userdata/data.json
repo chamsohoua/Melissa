@@ -161,8 +161,10 @@
         "2025-10-15"
       ],
       "tokens_total": 16,
-      "tokens_available": 16,
-      "tokens_used": {},
+      "tokens_available": 15,
+      "tokens_used": {
+        "10-09-2025": "1"
+      },
       "pause_requests": [],
       "reschedules": {},
       "total_price": 32400,
