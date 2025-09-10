@@ -255,6 +255,32 @@
       "total_price": 12000,
       "payed": 12000,
       "remaining": 0
+    },
+    {
+      "id": 1234,
+      "name": "Khalil",
+      "start_date": "2025-09-11",
+      "end_date": "2025-09-17",
+      "planned_cleaners_per_day": 2,
+      "scheduled_days": 8,
+      "cleaning_days": [
+        "2025-09-11",
+        "2025-09-10",
+        "2025-09-12",
+        "2025-09-13",
+        "2025-09-20",
+        "2025-09-19",
+        "2025-09-18",
+        "2025-09-17"
+      ],
+      "tokens_total": 16,
+      "tokens_available": 16,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 0,
+      "payed": 0,
+      "remaining": 0
     }
   ],
   "service": [
