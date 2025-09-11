@@ -309,6 +309,18 @@
       "total_price": 6500,
       "payed": 2000,
       "remaining": 4500
+    },
+    {
+      "id": 2,
+      "name": "Sakta tbiba",
+      "date": "2025-09-11",
+      "day_name": "Jeudi",
+      "cleaners": 2,
+      "tokens_total": 2,
+      "tokens_used": {},
+      "total_price": 6500,
+      "payed": 6500,
+      "remaining": 0
     }
   ]
 }
