@@ -124,6 +124,13 @@
       "password": "123",
       "acceptedTerms": "",
       "role": "worker"
+    },
+    {
+      "id": "124",
+      "name": "Charak kamel",
+      "username": "kamal",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
