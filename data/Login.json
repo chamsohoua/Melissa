@@ -138,6 +138,13 @@
       "username": "chamso",
       "password": "chamso",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1515",
+      "name": "Madame siradj",
+      "username": "siradj",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
