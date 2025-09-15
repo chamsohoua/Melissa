@@ -158,7 +158,7 @@
       "name": "Aa",
       "username": "aa",
       "password": "123",
-      "acceptedTerms": ""
+      "acceptedTerms": "true"
     }
   ]
 }
