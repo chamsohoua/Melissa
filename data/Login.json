@@ -152,6 +152,13 @@
       "username": "nes",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "12",
+      "name": "Aa",
+      "username": "aa",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
