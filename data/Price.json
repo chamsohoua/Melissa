@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Subscription",
       "Token": 2900
+    },
+    {
+      "id": 3,
+      "name": "Promotion",
+      "Token": 8
     }
   ]
 }
