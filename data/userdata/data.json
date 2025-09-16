@@ -178,7 +178,8 @@
       "tokens_available": 15,
       "tokens_used": {
         "10-09-2025": "1",
-        "13-09-2025": "1"
+        "13-09-2025": "1",
+        "15-09-2025": "1"
       },
       "pause_requests": [],
       "reschedules": {},
