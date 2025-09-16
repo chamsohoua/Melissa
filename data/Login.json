@@ -159,6 +159,13 @@
       "username": "aa",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "3030",
+      "name": "Chanouf mohamed",
+      "username": "med",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
