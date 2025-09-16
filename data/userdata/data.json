@@ -28,7 +28,7 @@
       "payed": 22400,
       "remaining": 0,
       "note": [
-        "خدمة متقنة مشكورة من طرف المتعامل"
+        "Ø®Ø¯ÙØ© ÙØªÙÙØ© ÙØ´ÙÙØ±Ø© ÙÙ Ø·Ø±Ù Ø§ÙÙØªØ¹Ø§ÙÙ"
       ]
     },
     {
@@ -375,6 +375,32 @@
       "reschedules": {},
       "total_price": 24000,
       "payed": 24000,
+      "remaining": 0
+    },
+    {
+      "id": 3030,
+      "name": "Chanoif mohamed",
+      "start_date": "2025-09-18",
+      "end_date": "2025-10-09",
+      "planned_cleaners_per_day": 1,
+      "scheduled_days": 8,
+      "cleaning_days": [
+        "2025-09-18",
+        "2025-09-25",
+        "2025-10-02",
+        "2025-09-21",
+        "2025-09-28",
+        "2025-10-05",
+        "2025-10-12",
+        "2025-10-09"
+      ],
+      "tokens_total": 8,
+      "tokens_available": 8,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 22800,
+      "payed": 22800,
       "remaining": 0
     }
   ],
