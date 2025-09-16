@@ -263,8 +263,10 @@
         "2025-09-30"
       ],
       "tokens_total": 6,
-      "tokens_available": 6,
-      "tokens_used": {},
+      "tokens_available": 5,
+      "tokens_used": {
+        "24-09-2025": "1"
+      },
       "pause_requests": [],
       "reschedules": [
         {
