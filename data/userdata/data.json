@@ -267,7 +267,12 @@
       "tokens_available": 6,
       "tokens_used": {},
       "pause_requests": [],
-      "reschedules": {},
+      "reschedules": [
+        {
+          "request": "24-09-2025 to 16-09-2025",
+          "status": "Accepted"
+        }
+      ],
       "total_price": 12000,
       "payed": 12000,
       "remaining": 0
