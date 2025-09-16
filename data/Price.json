@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Nettoyage",
       "Token": 3500
+    },
+    {
+      "id": 2,
+      "name": "Subscription",
+      "Token": 2900
     }
   ]
 }
