@@ -180,6 +180,13 @@
       "username": "maidi",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1742",
+      "name": "Bouyakoub ali",
+      "username": "ali",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
