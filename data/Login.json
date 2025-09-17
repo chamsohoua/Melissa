@@ -166,6 +166,13 @@
       "username": "med",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1904",
+      "name": "Bezoui",
+      "username": "fatima",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
