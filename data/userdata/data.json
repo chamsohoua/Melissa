@@ -541,6 +541,18 @@
       "total_price": 2500,
       "payed": 2500,
       "remaining": 0
+    },
+    {
+      "id": 160163,
+      "name": "Maidi thsouria",
+      "date": "2025-09-17",
+      "day_name": "Mercredi",
+      "cleaners": 4,
+      "tokens_total": 4,
+      "tokens_used": {},
+      "total_price": 12000,
+      "payed": 12000,
+      "remaining": 0
     }
   ]
 }
