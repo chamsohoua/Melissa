@@ -391,6 +391,26 @@
       "total_price": 20000,
       "payed": 0,
       "remaining": 20000
+    },
+    {
+      "id": 331277,
+      "name": "Ariaout amar",
+      "start_date": "2025-09-26",
+      "end_date": "2025-10-03",
+      "planned_cleaners_per_day": 1,
+      "scheduled_days": 2,
+      "cleaning_days": [
+        "2025-09-26",
+        "2025-10-03"
+      ],
+      "tokens_total": 2,
+      "tokens_available": 2,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 11600,
+      "payed": 11600,
+      "remaining": 0
     }
   ],
   "service": [
