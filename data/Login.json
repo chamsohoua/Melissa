@@ -180,6 +180,14 @@
       "username": "maidi",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "256",
+      "name": "hdhd",
+      "username": "hdhd",
+      "password": "hdhd",
+      "acceptedTerms": "",
+      "role": "worker"
     }
   ]
 }
