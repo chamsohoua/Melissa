@@ -232,18 +232,6 @@
       "remaining": 0
     },
     {
-      "id": 3,
-      "name": "Tbiba chlali",
-      "date": "2025-09-11",
-      "day_name": "Jeudi",
-      "cleaners": 2,
-      "tokens_total": 2,
-      "tokens_used": {},
-      "total_price": 6500,
-      "payed": 2000,
-      "remaining": 4500
-    },
-    {
       "id": 2,
       "name": "Sakta tbiba",
       "date": "2025-09-11",
@@ -254,18 +242,6 @@
       "total_price": 6500,
       "payed": 6500,
       "remaining": 0
-    },
-    {
-      "id": 1515,
-      "name": "Madame siradj",
-      "date": "2025-09-13",
-      "day_name": "Samedi",
-      "cleaners": 4,
-      "tokens_total": 4,
-      "tokens_used": {},
-      "total_price": 10000,
-      "payed": 0,
-      "remaining": 10000
     },
     {
       "id": 4,
@@ -289,30 +265,6 @@
       "tokens_used": {},
       "total_price": 3500,
       "payed": 3500,
-      "remaining": 0
-    },
-    {
-      "id": 3030,
-      "name": "Chanoif mohamed",
-      "date": "2025-09-25",
-      "day_name": "Jeudi",
-      "cleaners": 4,
-      "tokens_total": 4,
-      "tokens_used": {},
-      "total_price": 14000,
-      "payed": 14000,
-      "remaining": 0
-    },
-    {
-      "id": 256,
-      "name": "chamso",
-      "date": "2025-09-18",
-      "day_name": "Jeudi",
-      "cleaners": 1,
-      "tokens_total": 1,
-      "tokens_used": {},
-      "total_price": 2500,
-      "payed": 2500,
       "remaining": 0
     },
     {
