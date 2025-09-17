@@ -493,19 +493,5 @@
       "payed": 14000,
       "remaining": 0
     }
-  ],
-  "services": [
-    {
-      "id": 256,
-      "name": "chamsi",
-      "date": "2025-09-18",
-      "day_name": "Jeudi",
-      "cleaners": 1,
-      "tokens_total": 1,
-      "tokens_used": {},
-      "total_price": 2500,
-      "payed": 2500,
-      "remaining": 0
-    }
   ]
 }
