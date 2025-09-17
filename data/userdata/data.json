@@ -60,10 +60,11 @@
         "2025-10-23"
       ],
       "tokens_total": 19,
-      "tokens_available": 17,
+      "tokens_available": 16,
       "tokens_used": {
         "11-09-2025": "1",
-        "14-09-2025": "1"
+        "14-09-2025": "1",
+        "16-09-2025": "1"
       },
       "pause_requests": [],
       "reschedules": {},
