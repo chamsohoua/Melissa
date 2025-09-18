@@ -235,33 +235,6 @@
       "total_price": 20000,
       "payed": 20000,
       "remaining": 0
-    },
-    {
-      "id": 9090,
-      "name": "Hhhh",
-      "start_date": "2025-09-19",
-      "end_date": "2025-09-22",
-      "planned_cleaners_per_day": 1,
-      "scheduled_days": 4,
-      "cleaning_days": [
-        "2025-09-19",
-        "2025-09-20",
-        "2025-09-21",
-        "2025-09-22"
-      ],
-      "tokens_total": 4,
-      "tokens_available": 3,
-      "tokens_used": {
-        "19-09-2025": "0",
-        "20-09-2025": "1"
-      },
-      "pause_requests": [
-        "2025-09-22"
-      ],
-      "reschedules": {},
-      "total_price": 0,
-      "payed": 0,
-      "remaining": 0
     }
   ],
   "service": [
