@@ -300,6 +300,18 @@
       "total_price": 6500,
       "payed": 4000,
       "remaining": 2500
+    },
+    {
+      "id": 120194,
+      "name": "Ggghghg",
+      "date": "2025-10-21",
+      "day_name": "Mardi",
+      "cleaners": 3,
+      "tokens_total": 3,
+      "tokens_used": {},
+      "total_price": 9999,
+      "payed": 666,
+      "remaining": 9333
     }
   ],
   "services": [
