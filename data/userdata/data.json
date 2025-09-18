@@ -201,27 +201,6 @@
       "total_price": 11600,
       "payed": 11600,
       "remaining": 0
-    },
-    {
-      "id": 120194,
-      "name": "Bouyakoub sedik",
-      "start_date": "2025-09-18",
-      "end_date": "2025-09-20",
-      "planned_cleaners_per_day": 1,
-      "scheduled_days": 3,
-      "cleaning_days": [
-        "2025-09-18",
-        "2025-09-19",
-        "2025-09-20"
-      ],
-      "tokens_total": 3,
-      "tokens_available": 3,
-      "tokens_used": {},
-      "pause_requests": [],
-      "reschedules": {},
-      "total_price": 12000,
-      "payed": 12000,
-      "remaining": 0
     }
   ],
   "service": [
