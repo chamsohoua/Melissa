@@ -223,7 +223,12 @@
         "05-10-2025": "1"
       },
       "pause_requests": [],
-      "reschedules": {},
+      "reschedules": [
+        {
+          "request": "21-09-2025 to 24-09-2025",
+          "status": "Accepted"
+        }
+      ],
       "total_price": 12000,
       "payed": 12000,
       "remaining": 0
