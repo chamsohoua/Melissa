@@ -89,8 +89,10 @@
         "2025-09-21"
       ],
       "tokens_total": 2,
-      "tokens_available": 2,
-      "tokens_used": {},
+      "tokens_available": 1,
+      "tokens_used": {
+        "14-09-2025": "1"
+      },
       "pause_requests": [],
       "reschedules": {},
       "total_price": 10000,
