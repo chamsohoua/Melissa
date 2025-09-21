@@ -3,7 +3,8 @@
     {
       "id": "admin",
       "username": "admin",
-      "password": "121212"
+      "password": "121212",
+      "acceptedTerms": "true"
     },
     {
       "id": "170993",
