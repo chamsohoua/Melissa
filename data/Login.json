@@ -111,6 +111,13 @@
       "username": "naim",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "20784",
+      "name": "Mellikeche mriem",
+      "username": "mriem",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
