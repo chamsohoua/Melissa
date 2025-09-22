@@ -255,6 +255,28 @@
       "total_price": 10000,
       "payed": 9000,
       "remaining": 1000
+    },
+    {
+      "id": 124,
+      "name": "Charak kamel",
+      "start_date": "2025-09-06",
+      "end_date": "2025-09-21",
+      "planned_cleaners_per_day": 1,
+      "scheduled_days": 4,
+      "cleaning_days": [
+        "2025-09-06",
+        "2025-09-07",
+        "2025-09-14",
+        "2025-09-21"
+      ],
+      "tokens_total": 4,
+      "tokens_available": 4,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 10000,
+      "payed": 6000,
+      "remaining": 4000
     }
   ],
   "service": [
