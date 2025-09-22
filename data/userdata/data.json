@@ -269,7 +269,24 @@
       "tokens_available": 2,
       "tokens_used": {},
       "pause_requests": [],
-      "reschedules": {},
+      "reschedules": [
+        {
+          "request": "11-10-2025 to 04-10-2025",
+          "status": "Accepted"
+        },
+        {
+          "request": "11-10-2025 to 18-10-2025",
+          "status": "Accepted"
+        },
+        {
+          "request": "25-10-2025 to 04-10-2025",
+          "status": "Accepted"
+        },
+        {
+          "request": "25-10-2025 to 18-10-2025",
+          "status": "Accepted"
+        }
+      ],
       "total_price": 3000,
       "payed": 3000,
       "remaining": 0
