@@ -432,6 +432,18 @@
       "total_price": 9999,
       "payed": 666,
       "remaining": 9333
+    },
+    {
+      "id": 71189,
+      "name": "بن سليمان أم الخير أسيا",
+      "date": "2025-09-24",
+      "day_name": "Mercredi",
+      "cleaners": 2,
+      "tokens_total": 2,
+      "tokens_used": {},
+      "total_price": 6500,
+      "payed": 6500,
+      "remaining": 0
     }
   ],
   "services": [
