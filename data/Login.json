@@ -124,6 +124,14 @@
       "username": "assia",
       "password": "123",
       "acceptedTerms": ""
+    },
+    {
+      "id": "1",
+      "name": "madame",
+      "username": "madame",
+      "password": "1212",
+      "acceptedTerms": "",
+      "role": "worker"
     }
   ]
 }
