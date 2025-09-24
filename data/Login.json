@@ -135,10 +135,10 @@
     },
     {
       "id": "140383",
-      "name": "Délai khedidja",
+      "name": "DÃ©lai khedidja",
       "username": "slami",
       "password": "123",
-      "acceptedTerms": ""
+      "acceptedTerms": "true"
     }
   ]
 }
