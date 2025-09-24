@@ -132,6 +132,13 @@
       "password": "1212",
       "acceptedTerms": "",
       "role": "worker"
+    },
+    {
+      "id": "140383",
+      "name": "Délai khedidja",
+      "username": "slami",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
