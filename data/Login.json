@@ -127,10 +127,17 @@
     },
     {
       "id": "140383",
-      "name": "DÃÂÃÂ©lai khedidja",
+      "name": "DÃÂÃÂÃÂÃÂ©lai khedidja",
       "username": "slami",
       "password": "123",
       "acceptedTerms": "true"
+    },
+    {
+      "id": "1960",
+      "name": "Ben hamza ben salah",
+      "username": "hamza",
+      "password": "123",
+      "acceptedTerms": ""
     }
   ]
 }
