@@ -13,7 +13,7 @@
     {
       "name": "Slimani dahkala",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "bezoui monir",
@@ -53,12 +53,12 @@
     {
       "name": "Chanoif sif",
       "gender": "Homme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Belfast kader",
       "gender": "Homme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Naima",
@@ -98,7 +98,7 @@
     {
       "name": "el3id",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Gharech barkaham",
@@ -108,27 +108,27 @@
     {
       "name": "Djamila",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Gerach",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "3afaf",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "rahma",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Zahra",
       "gender": "Femme",
-      "status": "Disponible"
+      "status": "Occupe"
     },
     {
       "name": "Noura",
@@ -137,11 +137,6 @@
     },
     {
       "name": "Chafi9a",
-      "gender": "Femme",
-      "status": "Disponible"
-    },
-    {
-      "name": "Marwa",
       "gender": "Femme",
       "status": "Disponible"
     }
