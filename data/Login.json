@@ -120,7 +120,7 @@
     },
     {
       "id": "140383",
-      "name": "DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©lai khedidja",
+      "name": "DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©lai khedidja",
       "username": "slami",
       "password": "123",
       "acceptedTerms": "true"
@@ -130,6 +130,13 @@
       "name": "Ben hamza ben salah",
       "username": "hamza",
       "password": "123",
+      "acceptedTerms": ""
+    },
+    {
+      "id": "260782",
+      "name": "Belanteur Abdelmalek",
+      "username": "malek",
+      "password": "anes2020",
       "acceptedTerms": ""
     }
   ]
