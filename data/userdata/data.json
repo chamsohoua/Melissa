@@ -356,6 +356,36 @@
       "total_price": 11600,
       "payed": 11600,
       "remaining": 0
+    },
+    {
+      "id": 260782,
+      "name": "malek",
+      "start_date": "2025-09-27",
+      "end_date": "2025-10-23",
+      "planned_cleaners_per_day": 1,
+      "scheduled_days": 12,
+      "cleaning_days": [
+        "2025-09-27",
+        "2025-09-29",
+        "2025-10-02",
+        "2025-10-04",
+        "2025-10-06",
+        "2025-10-09",
+        "2025-10-11",
+        "2025-10-13",
+        "2025-10-16",
+        "2025-10-18",
+        "2025-10-20",
+        "2025-10-23"
+      ],
+      "tokens_total": 12,
+      "tokens_available": 12,
+      "tokens_used": {},
+      "pause_requests": [],
+      "reschedules": {},
+      "total_price": 30000,
+      "payed": 30000,
+      "remaining": 0
     }
   ],
   "service": [
